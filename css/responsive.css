@@ -1,0 +1,27 @@
+@media (min-width: 851px){
+    .main-container{
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: 5%;
+    }
+
+    .formproducts{
+        width: 30%;
+    }
+
+    .card__section{
+        margin-top: 3%;
+        height: 50hv;
+        width: 752px;
+    }
+
+    .cards__container{
+        width: 50hv;
+    }
+
+   
+    
+}
+ 
+
+
